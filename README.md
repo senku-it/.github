@@ -1,2 +1,0 @@
-# .github
-👤 Senku Public Info
